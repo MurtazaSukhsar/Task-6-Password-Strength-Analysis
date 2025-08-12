@@ -29,6 +29,15 @@ To evaluate the strength of different passwords using the online tool [Password 
 - Avoid **consecutive letters or numbers** to reduce deductions.
 - **Complexity** improves drastically when passwords are 12+ characters long.
 
+## Folder Structure
+Task-6-Password-Strength-Analysis/
+├── README.md
+└── screenshots/
+    ├── weak.png
+    ├── strong.png
+    ├── verystrong.png
+    ├── verystrong1.png
+
 ## Conclusion
 Strong passwords require:
 - At least **12 characters**
